@@ -2,3 +2,4 @@ C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProb
 C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Domain\bin\Debug\GenerateIdDesignerProblem.Domain.pdb
 C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Domain\obj\Debug\GenerateIdDesignerProblem.Domain.dll
 C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Domain\obj\Debug\GenerateIdDesignerProblem.Domain.pdb
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Domain\obj\Debug\GenerateIdDesignerProblem.Domain.csprojResolveAssemblyReference.cache
