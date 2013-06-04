@@ -1,0 +1,11 @@
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Test.dll
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Test.pdb
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\obj\Debug\GenerateIdDesignerProblem.Test.csprojResolveAssemblyReference.cache
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\obj\Debug\GenerateIdDesignerProblem.Test.dll
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\obj\Debug\GenerateIdDesignerProblem.Test.pdb
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Domain.dll
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Repository.dll
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Domain.pdb
+C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Test\bin\Debug\GenerateIdDesignerProblem.Repository.pdb
