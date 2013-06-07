@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A433A906
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateIdDesignerProblem.Orm.NHibernate.Test", "GenerateIdDesignerProblem.Orm.NHibernate.Test\GenerateIdDesignerProblem.Orm.NHibernate.Test.csproj", "{1C6DC64E-6606-407D-8EA8-FA1457BD29BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateIdDesignerProblem.Framework", "GenerateIdDesignerProblem.Framework\GenerateIdDesignerProblem.Framework.csproj", "{02E8F2EF-94A2-4FEE-8E39-C370EC2CCF1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1C6DC64E-6606-407D-8EA8-FA1457BD29BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C6DC64E-6606-407D-8EA8-FA1457BD29BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C6DC64E-6606-407D-8EA8-FA1457BD29BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E8F2EF-94A2-4FEE-8E39-C370EC2CCF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E8F2EF-94A2-4FEE-8E39-C370EC2CCF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E8F2EF-94A2-4FEE-8E39-C370EC2CCF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E8F2EF-94A2-4FEE-8E39-C370EC2CCF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

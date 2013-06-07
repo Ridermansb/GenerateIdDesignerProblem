@@ -1,5 +1,5 @@
 ﻿using GenerateIdDesignerProblem.Domain;
-using GenerateIdDesignerProblem.Repository;
+using GenerateIdDesignerProblem.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;

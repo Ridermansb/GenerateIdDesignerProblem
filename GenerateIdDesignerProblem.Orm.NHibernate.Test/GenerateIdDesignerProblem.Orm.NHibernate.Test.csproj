@@ -61,6 +61,10 @@
       <Project>{ec0d6ece-658b-4fd4-b865-ad81c7c7d6d9}</Project>
       <Name>GenerateIdDesignerProblem.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GenerateIdDesignerProblem.Framework\GenerateIdDesignerProblem.Framework.csproj">
+      <Project>{02e8f2ef-94a2-4fee-8e39-c370ec2ccf1b}</Project>
+      <Name>GenerateIdDesignerProblem.Framework</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GenerateIdDesignerProblem.Orm.NHibernate\GenerateIdDesignerProblem.Orm.NHibernate.csproj">
       <Project>{0860dda5-f357-4484-a392-b6aba4a8ff3e}</Project>
       <Name>GenerateIdDesignerProblem.Orm.NHibernate</Name>

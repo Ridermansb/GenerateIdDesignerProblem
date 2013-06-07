@@ -63,9 +63,9 @@
       <Project>{ec0d6ece-658b-4fd4-b865-ad81c7c7d6d9}</Project>
       <Name>GenerateIdDesignerProblem.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\GenerateIdDesignerProblem.Repository\GenerateIdDesignerProblem.Repository.csproj">
-      <Project>{bc378801-b735-4760-8051-764940bff230}</Project>
-      <Name>GenerateIdDesignerProblem.Repository</Name>
+    <ProjectReference Include="..\GenerateIdDesignerProblem.Framework\GenerateIdDesignerProblem.Framework.csproj">
+      <Project>{02e8f2ef-94a2-4fee-8e39-c370ec2ccf1b}</Project>
+      <Name>GenerateIdDesignerProblem.Framework</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

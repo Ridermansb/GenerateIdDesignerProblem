@@ -1,7 +1,0 @@
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\bin\Debug\GenerateIdDesignerProblem.Repository.dll
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\bin\Debug\GenerateIdDesignerProblem.Repository.pdb
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\bin\Debug\GenerateIdDesignerProblem.Domain.dll
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\bin\Debug\GenerateIdDesignerProblem.Domain.pdb
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\obj\Debug\GenerateIdDesignerProblem.Repository.csprojResolveAssemblyReference.cache
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\obj\Debug\GenerateIdDesignerProblem.Repository.dll
-C:\Users\Ridermansb\Documents\Visual Studio 2012\Projects\GenerateIdDesignerProblem\GenerateIdDesignerProblem.Repository\obj\Debug\GenerateIdDesignerProblem.Repository.pdb

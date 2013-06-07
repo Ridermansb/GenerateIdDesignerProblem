@@ -1,6 +1,6 @@
 ﻿using GenerateIdDesignerProblem.Domain;
+using GenerateIdDesignerProblem.Framework;
 using GenerateIdDesignerProblem.Orm.NHibernate;
-using GenerateIdDesignerProblem.Repository;
 using NHibernate;
 using NHibernate.Linq;
 using System;
